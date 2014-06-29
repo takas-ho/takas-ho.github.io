@@ -4006,7 +4006,7 @@ body {
 #page .entry-content {
   padding: 10px 15px;
   margin: 40px 2px 20px 2px;
-  background-color: #ffffff;
+  background-color: #fafafa;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
@@ -4043,7 +4043,7 @@ body {
 #page #disqus_thread {
   padding: 10px 15px;
   margin: 40px 2px 20px 2px;
-  background-color: #ffffff;
+  background-color: #fafafa;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
@@ -4104,7 +4104,7 @@ body {
   padding: 40px 15px 25px;
   margin: 40px 2px 20px 2px;
   text-align: center;
-  background-color: #ffffff;
+  background-color: #fafafa;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
@@ -4261,7 +4261,7 @@ body {
 #post-index article {
   padding: 25px 15px;
   margin-bottom: 20px;
-  background-color: #ffffff;
+  background-color: #fafafa;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
