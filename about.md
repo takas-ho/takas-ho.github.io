@@ -9,20 +9,22 @@ image:
 share: true
 ---
 
-思いつきの戯れ言ブログ
+#思いつきの戯れ言ブログ
 
-![Smithsonian Image]({{ site.url }}/images/ScrumMaster-Logo-Seal.png)
+![CSM]({{ site.url }}/images/ScrumMaster-Logo-Seal.png "Certified Scrum Master")
 {: .pull-right}
 
 ##{{ site.owner.name }}
 
 ###プログラマー
 
-* 楽しく開発して価値あるものを届けたい
-* JavaでWebが好きな おっさん
+###楽しく開発して、お客さんに喜んで貰って、報酬を貰いたい
+  * その実現に向けて、XPやらTDDやらScrumやら色々手を出してる
+* JavaでWebが好き
 * 今の現場
-  * VB.NETで GUI & ASP.NET MVC
-  * もちろん要件定義から保守まで
-  * 4年目
+  * VB2008で GUI & ASP.NET MVC
+  * 新規開発の要件定義から保守まで
+  * 5年目
+  * 二人チーム
 
-プログラマーってのは、要件定義・設計・実装・テスト・運用・保守、すべてをこなす人だよね！？
+###プログラマーってのは、要件定義・設計・実装・テスト・運用・保守・折衝、すべてをこなす人だと思ってる
